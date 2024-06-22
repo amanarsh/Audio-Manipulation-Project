@@ -5,5 +5,7 @@ The project requires an Ultraleap Motion Controller (the version is up to you, b
 I'm currently working on:
 
 ○ User input tracks
+
 ○ Choice between pitch, reverb, and speed control
+
 ○ Choice between different hand models
